@@ -165,6 +165,10 @@ The emergence of AI agents in scientific discovery represents more than just tec
 - **[PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration](https://arxiv.org/abs/2407.00203)**  
   *Yuxuan Sun, Yunlong Zhang, Yixuan Si, Chenglu Zhu, et al.* arXiv 2024
 
+#### Medical Research
+- **[OpenLens AI: Fully Autonomous Research Agent for Health Infomatics](https://arxiv.org/abs/2509.14778)**  
+  *Yuxiao Cheng, Jinli Suo* arXiv 2025, [GitHub Repo](https://github.com/jarrycyx/openlens-ai)
+
 ### Biology & Life Sciences
 
 #### Genomics & Molecular Biology
